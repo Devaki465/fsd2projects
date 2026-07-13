@@ -8,4 +8,4 @@ console.log(typeof address);
 function addnumbers(a: number,b: number):void{
     console.log(`${a+b}`);
 }
-addnumbers(6,7);git 
+addnumbers(6,7);dd
