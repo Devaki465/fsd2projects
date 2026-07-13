@@ -4,3 +4,4 @@ let present : boolean=true;
 console.log(`Student name=${username}`);
 console.log(`Roll no:${rollno}`);
 console.log(`Attendence :${present}`);
+
